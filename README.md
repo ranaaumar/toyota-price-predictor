@@ -1,1 +1,5 @@
-# toyota-price-predictor
+Libraries: 
+streamlit
+pandas
+numpy
+scikit-learn
